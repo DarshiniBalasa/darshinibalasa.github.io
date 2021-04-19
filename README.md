@@ -26,7 +26,7 @@
       <li>Manu
       <li>Shruthi
       <li>Shambhavi
-  </ul>
+  
   <li>School BFFS</li>
   <ul>
     <li>Shruthi</li>
@@ -35,7 +35,7 @@
     <li>Sarojini</li>
     <li>Abhinav</li>
   </ul>
-  </ul>
+  
   <h2 id="my-school" >My School</h2>
   <p>
   I study in grade 7. My school name is Diya Acedemy of learning. It is just 500m away from my home. It has 2 bulidings. 1st building is for students from kindergarten to grade 2. 2nd building is for students from grade 3 to grade 10. </p>
@@ -53,8 +53,7 @@
       I love <strong>dancing</strong>. I started learning dance from a small age. Besides that, I like <strong>drawing</strong>, <strong>swimming </strong>and <strong>playing outdoor games</strong> with my friends. I also like filming videos and reading books.
   </p>
   <h2>Thank You For Visiting My Website.</h2>
-  
-  </html>
+ 
   
 
   
